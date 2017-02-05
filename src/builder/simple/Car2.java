@@ -27,5 +27,6 @@ public class Car2 {
             return new Car(this);
         }
         //comment
+        //issue2 commit
     }
 }
