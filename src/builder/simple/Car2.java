@@ -28,5 +28,6 @@ public class Car2 {
         }
         //comment
         //issue2 commit
+        //issue2 commit 2
     }
 }
