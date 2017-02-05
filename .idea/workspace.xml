@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5a2a56fc-58b0-44e6-ae1c-d701b5188a12" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/builder/simple/Car2.java" afterPath="$PROJECT_DIR$/src/builder/simple/Car2.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -613,7 +612,7 @@
       <updated>1486314463372</updated>
       <workItem from="1486314470163" duration="7197000" />
       <workItem from="1486322859682" duration="1533000" />
-      <workItem from="1486336917309" duration="451000" />
+      <workItem from="1486336917309" duration="489000" />
     </task>
     <task id="LOCAL-00001" summary="Added class Cat body">
       <created>1486322094205</created>
@@ -647,7 +646,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9181000" />
+    <option name="totallyTimeSpent" value="9219000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
